@@ -1,0 +1,54 @@
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\appsettings.Development.json
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\appsettings.json
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Microservicio CRUD - Ejemplo 1.exe
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Microservicio CRUD - Ejemplo 1.deps.json
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Microservicio CRUD - Ejemplo 1.runtimeconfig.json
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Microservicio CRUD - Ejemplo 1.dll
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Microservicio CRUD - Ejemplo 1.pdb
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.csproj.AssemblyReference.cache
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.AssemblyInfoInputs.cache
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.AssemblyInfo.cs
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.csproj.CoreCompileInputs.cache
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.MvcApplicationPartsAssemblyInfo.cs
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.MvcApplicationPartsAssemblyInfo.cache
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\staticwebassets.build.json
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\staticwebassets.development.json
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\scopedcss\bundle\Microservicio CRUD - Ejemplo 1.styles.css
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.csproj.CopyComplete
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.dll
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\refint\Microservicio CRUD - Ejemplo 1.dll
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.pdb
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.genruntimeconfig.cache
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\ref\Microservicio CRUD - Ejemplo 1.dll
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\appsettings.Development.json
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\appsettings.json
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Microservicio CRUD - Ejemplo 1.exe
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Microservicio CRUD - Ejemplo 1.deps.json
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Microservicio CRUD - Ejemplo 1.runtimeconfig.json
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Microservicio CRUD - Ejemplo 1.dll
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Microservicio CRUD - Ejemplo 1.pdb
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.csproj.AssemblyReference.cache
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.AssemblyInfoInputs.cache
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.AssemblyInfo.cs
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.csproj.CoreCompileInputs.cache
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.MvcApplicationPartsAssemblyInfo.cs
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.MvcApplicationPartsAssemblyInfo.cache
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\staticwebassets.build.json
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\staticwebassets.development.json
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\scopedcss\bundle\Microservicio CRUD - Ejemplo 1.styles.css
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.csproj.CopyComplete
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.dll
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\refint\Microservicio CRUD - Ejemplo 1.dll
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.pdb
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\Microservicio CRUD - Ejemplo 1.genruntimeconfig.cache
+F:\GITHUB\REPOSITORIOS_LOCALES\Repo2_Azure\Microservicio CRUD - Ejemplo 1\obj\Debug\net6.0\ref\Microservicio CRUD - Ejemplo 1.dll
